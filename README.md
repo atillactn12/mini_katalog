@@ -22,7 +22,9 @@ Uygulama, temel Flutter widget yapılarını, sayfa arası navigasyon (Route) ma
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
-1. Bu depoyu (repository) bilgisayarınıza klonlayın.
+1. Bu depoyu (repository) bilgisayarınıza klonlayın:
+   ```bash
+   git clone [https://github.com/atillactn12/mini_katalog.git](https://github.com/atillactn12/mini_katalog.git)
 2. Proje dizinine gidip `flutter pub get` komutunu çalıştırın.
 3. Bir emülatör veya cihaz bağlayarak `flutter run` ile başlatın.
 
