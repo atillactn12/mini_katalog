@@ -30,10 +30,10 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 *(Projenin çalışan haline ait örnek görseller)*
 
-![Ekran 1](screenshots/2.png)
+![Ekran 1](screenshots/2.PNG)
 
-![Ekran 2](screenshots/3.png)
+![Ekran 2](screenshots/3.PNG)
 
-![Ekran 3](screenshots/4.png)
+![Ekran 3](screenshots/4.PNG)
 
-![Ekran 4](screenshots/5.png)
+![Ekran 4](screenshots/5.PNG)
