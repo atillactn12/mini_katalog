@@ -2,7 +2,7 @@
 
 Bu proje, Flutter Günlük Eğitim Kampı kapsamında geliştirilmiş, modern ve kullanıcı dostu bir e-ticaret ve katalog uygulaması taslağıdır. 
 
-Kıbrıs'ta güvenilir ve yerel bir çiçekçi arayan kullanıcılar için özel olarak tasarlanmıştır. Proje, doğrudan [Destegül Çiçekçilik](https://www.xn--kbrscicekci-zzbc.com) konseptini baz alarak oluşturulmuştur. Mağazayı ziyaret etmek isterseniz konumuna [Google Haritalar](https://maps.app.goo.gl/ScGDbwDGgmSFWz6s6?g_st=ic) üzerinden kolayca ulaşabilirsiniz.
+Şık ve minimal bir botanik/çiçek mağazası konsepti baz alınarak oluşturulmuştur. Kullanıcıların kolayca ürün arayabileceği, ürün özelliklerini inceleyebileceği ve alışveriş sepeti deneyimini yaşayabileceği temel bir mobil arayüz sunar.
 
 ## 📱 Proje Hakkında
 Uygulama, temel Flutter widget yapılarını, sayfa arası navigasyon (Route) mantığını ve listeleme özelliklerini profesyonel bir arayüzle sunmayı hedefler. Gerçek bir API kullanmak yerine, uygulama içinde oluşturulan JSON simülasyonu ile veri modelleme işlemleri gerçekleştirilmiştir.
@@ -14,8 +14,8 @@ Uygulama, temel Flutter widget yapılarını, sayfa arası navigasyon (Route) ma
 * İnternet bağımlılığını azaltan yerel görsel (Asset) yönetimi.
 
 ## 🛠 Kullanılan Teknolojiler ve Sürüm
-* **Framework:** Flutter (3.x)
-* **Dil:** Dart (SDK: >=3.11.1)
+* **Framework:** Flutter (Version 3.130.0)
+* **Dil:** Dart (Version 3.130.1)
 * **Paketler:** Sadece temel `material.dart` kullanılmıştır. Harici bir paket içermez.
 
 ## 🚀 Çalıştırma Adımları
@@ -36,7 +36,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 📸 Ekran Görüntüleri
 
-src="screenshots/2.PNG"
-src="screenshots/3.PNG"
-src="screenshots/4.PNG"
-src="screenshots/5.PNG"
+src="screenshots/2.png"
+src="screenshots/3.png"
+src="screenshots/4.png"
+src="screenshots/5.png"
